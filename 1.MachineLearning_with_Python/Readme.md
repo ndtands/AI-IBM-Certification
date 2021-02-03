@@ -25,4 +25,10 @@
 - KNN
 - Decission Tree
 - Logistic Regression
- 
+#### 3.Clustering
+- K-Mean
+- Hierachical clustering
+- Density-based clustering (DBSCAN)
+#### 4.Recommender Systerm
+- Using Content-based Filtering
+- Using Collaborative Filtering
